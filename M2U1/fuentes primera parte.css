@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    background-color: rgb(8, 116, 128);
+    color: white;
+    text-transform: uppercase;
+    font-size: 26;
+}
+
+h2 {
+    background-color: rgb(162, 236, 211);
+    font-size: 22;
+}
+
+h3 {
+    color: rgb(41, 128, 119);
+    border: turquoise;
+    border-style: solid;
+    border-width: thin 0px 0px 0px;
+    font-size: 21;
+}
+
+p {
+    font-size: 18px;
+}
+
+.suave {
+    font-size: 15px;
+    opacity: 80%;
+}
+
+ul {
+    color: rgb(41, 128, 119);
+    font-style: italic;
+}
+
+#cuadro1 {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(162, 236, 211);
+}
